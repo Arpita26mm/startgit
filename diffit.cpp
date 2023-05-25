@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "The sum of two numbers is" << 2 + 5;
+    cout << "The difference is " << 5 - 2;
     return 0;
 }
